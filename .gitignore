@@ -1,0 +1,19 @@
+# Ignore system files
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.gitconfig
+.ipython/
+.lesshst
+.profile
+.vscode-server/
+.wget-hsts
+
+# Ignore big files and envs
+Anaconda3-5.2.0-Linux-x86_64.sh
+anaconda3/
+finrl-env/
+trained_ppo_model.zip
+venv/
