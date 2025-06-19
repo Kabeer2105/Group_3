@@ -29,9 +29,13 @@ anaconda3/
 .wget-hsts
 
 # Project specific
-*.csv
 trained_ppo_model.zip
 .venv/
 __pycache__/
 *.pyc
 Anaconda3-5.2.0-Linux-x86_64.sh
+.dotnet
+.ipython
+.pyenv
+.wdm
+
