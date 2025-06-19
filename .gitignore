@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.vscode-server/
+
+# Environment
+.env
+.conda/
+anaconda3/
+
+# System files
+.DS_Store
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.cache/
+.wget-hsts
+
+# Project specific
+*.csv
+trained_ppo_model.zip
+.venv/
+__pycache__/
+*.pyc
